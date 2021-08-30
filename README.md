@@ -12,5 +12,4 @@
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/470.gif">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/471.gif">
 </div>
-<img src="https://c.tenor.com/ZqEG5PW9788AAAAC/koe-no-katachi-a-silent-voice.gif">
 
