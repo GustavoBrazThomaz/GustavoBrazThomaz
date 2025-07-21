@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Braz!
 
-Sou desenvolvedor front-end focado em construir interfaces modernas, responsivas.
+Sou desenvolvedor front-end com 2 anos e meio de experiência
 
 ---
 
