@@ -1,7 +1,5 @@
 # Olá, eu sou o Gustavo Braz!
 
----
-
 ## 🚀 Tecnologias e Frameworks
 
 > Tecnologias que utilizo com mais frequência em projetos pessoais e profissionais:
