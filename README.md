@@ -1,7 +1,5 @@
 # Olá, eu sou o Gustavo Braz!
 
-Sou desenvolvedor front-end com 2 anos e meio de experiência
-
 ---
 
 ## 🚀 Tecnologias e Frameworks
